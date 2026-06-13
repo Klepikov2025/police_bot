@@ -1,6 +1,0 @@
-flask
-gunicorn
-aiogram
-nest_asyncio
-honcho
-aiohttp
